@@ -1,0 +1,3 @@
+[submodule "test-server"]
+	path = test-server
+	url = https://github.com/wbw383/test-server.git
