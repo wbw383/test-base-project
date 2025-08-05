@@ -6,5 +6,6 @@ This project contains the following git submodules:
 
 ## Documentation
 
+- [Git Submodule Management with Command Line](submodules-with-git-cli.md) - Complete guide for managing submodules using Git CLI
 - [Git Submodule Management with SourceTree](submodules-with-sourcetree.md) - Complete guide for managing submodules using SourceTree GUI
 - [Git Submodule Management with GitKraken](submodules-with-gitkraken.md) - Complete guide for managing submodules using GitKraken GUI
